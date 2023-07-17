@@ -56,4 +56,4 @@ Week_7 :-
 
 Deployed the model with Flask.
 
-                                                       * * * * * * * * * * * * * * * 
+                                 * * * * * * * * * * * * * * * 
