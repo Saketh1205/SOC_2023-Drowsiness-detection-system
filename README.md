@@ -28,7 +28,7 @@ Started with Deep Learning.(Used TensorFlow)
 
 Learned about Convolutional Neural Network (CNN).
 
-Did some mini project of MNIST data classification for practice.
+Did some mini tasks like MNIST data classification.
 
 
 Week_4 :- 
@@ -36,4 +36,24 @@ Downloaded the required dataset for the project.
 
 Importing and pre-processing the data.
 
-Understanding the Model architechture.
+Understanding the MobileNet Model architechture.
+
+
+Week_5 :-
+Performed Transfer Learning on the MobileNet model.
+
+Trained the model on the pre-processed training data.
+
+Implemented Face and eye haarcascades.
+
+Week_6 :-
+Capturing live video from webcam with openCV.
+
+Testing the trained model on live webcam video.
+
+
+Week_7 :-
+
+Deployed the model with Flask.
+
+                                                       * * * * * * * * * * * * * * * 
