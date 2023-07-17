@@ -1,5 +1,7 @@
 # SOC_2023-Driver-Drowsiness-detection-system
 
+The project is focused on developing a real-time driver drowsiness detection system. It incorporates transfer learning on the MobileNet model and utilizes Haar cascades for face and eye detection.
+
 Week-wise report :- 
 
 
