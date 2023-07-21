@@ -1,19 +1,3 @@
-# from flask import Flask
-
-# app = Flask(__name__)
-
-# @app.route('/')
-# def hello():
-#     return "Hello Saketh, this is your first Flask web app"
-
-# @app.route('/hello')
-# def Hello():
-#     return "Hello Saketh, this is your 2nd Flask web app :):):):):):):):):):):):):):):):)"         
-
-
-# if __name__ == '__main__':
-#     app.run(debug = True)
-
 
 from flask import Flask, render_template, Response
 import cv2
